@@ -11,10 +11,10 @@ A new script will be created to extract and read the data from the text file.
 
 TODO:
 
-Update data to NZST as all dates UTC
+(x) Update data to NZST as all dates UTC
 
-Run script for a week to gather data.
+(x) Run script for a week to gather data.
 
-Compare data and create data visualizations
+(x) Compare data and create data visualizations
 
 
